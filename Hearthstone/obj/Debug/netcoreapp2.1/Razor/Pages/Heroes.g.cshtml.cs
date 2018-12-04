@@ -88,7 +88,7 @@ using Hearthstone.Data;
             WriteLiteral("\r\n\r\n<!-- Animations--><!DOCTYPE html>\r\n<html lang=\"en-us\">\r\n");
             EndContext();
             BeginContext(147, 9790, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "73665d2526674f2fa78c97829f34710b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a90c8fab3714410bb84b3ed18e0e994", async() => {
                 BeginContext(153, 9777, true);
                 WriteLiteral(@"
     <script>
@@ -161,7 +161,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(9939, 173536, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b8532b0e53d48ada56866196bc23c75", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d864a87a2c5042d690f7b8d22caf543c", async() => {
                 BeginContext(10039, 138243, true);
                 WriteLiteral(@"
     <noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-MZ8HKPP"" height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
@@ -497,7 +497,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 WriteLiteral("t\">");
                 EndContext();
                 BeginContext(148282, 91, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d63ae919a5374f819b8da8e2d9f3ec0a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c49453cad08430d889c4554bc1f93a1", async() => {
                     BeginContext(148348, 16, true);
                     WriteLiteral("Jaina Proudmoore");
                     EndContext();
@@ -518,7 +518,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148373, 82, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af2d193c849240b4b260febf2e47365d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f88d3f3f22564430b86a99b6093214ac", async() => {
                     BeginContext(148440, 6, true);
                     WriteLiteral("Rexxar");
                     EndContext();
@@ -539,7 +539,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148455, 93, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ffa177fed0cb421eb40a87b2a64c8fb3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e4fed118bd146c3aaac8b04e8822ef1", async() => {
                     BeginContext(148521, 18, true);
                     WriteLiteral("Uther Lightbringer");
                     EndContext();
@@ -560,7 +560,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148548, 95, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a779d70b79d24583a10de73ca7e1a37a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ec1afd2a8b5413b98a92ea4dd96c91a", async() => {
                     BeginContext(148616, 18, true);
                     WriteLiteral("Garrosh Hellscream");
                     EndContext();
@@ -581,7 +581,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148643, 98, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ef1ba51af2634f559757f547d0131f67", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cca1d7b5ae9448ce88c12f2115d02e65", async() => {
                     BeginContext(148713, 19, true);
                     WriteLiteral("Malfurion Stormrage");
                     EndContext();
@@ -602,7 +602,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148741, 83, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dbea8935fbaa4a1bb6e55bea5884c095", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e49a965eaff4594b2bdf39aa99eba94", async() => {
                     BeginContext(148808, 7, true);
                     WriteLiteral("Gul\'dan");
                     EndContext();
@@ -623,7 +623,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148824, 82, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6e2b511364f4e4585cb9bb843b9c2dc", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a314d5b1b9e547f0a37b8e687264c927", async() => {
                     BeginContext(148891, 6, true);
                     WriteLiteral("Thrall");
                     EndContext();
@@ -644,7 +644,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148906, 88, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bfd91c4a480340cd90f8cf6ef40c77e6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38f52f8c14dc43f5b4e436bd78ca566d", async() => {
                     BeginContext(148973, 12, true);
                     WriteLiteral("Anduin Wrynn");
                     EndContext();
@@ -665,7 +665,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 EndContext();
                 BeginContext(148994, 94, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf76314637184fff9854b275e4a6b170", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f807476d272b41d2802a7e0728ea22dc", async() => {
                     BeginContext(149062, 17, true);
                     WriteLiteral("Valeera Sanguinar");
                     EndContext();

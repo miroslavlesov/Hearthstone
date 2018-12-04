@@ -69,7 +69,7 @@ using Hearthstone.Data;
             WriteLiteral("<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-us\">\r\n");
             EndContext();
             BeginContext(170, 6785, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f03cd15eb5cd497d88d544460cf20e3e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff0b856f791746ccbec0d9d8f8f8c883", async() => {
                 BeginContext(176, 6772, true);
                 WriteLiteral(@"
     <meta http-equiv=""imagetoolbar"" content=""false"" />
@@ -167,7 +167,7 @@ Login.embeddedUrl = 'https://eu.battle.net/login/login.frag';
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(6957, 257166, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99341bdbdca542be8aee6602406aaf2b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6bd29c8affae4089ac5ec573ddc1db38", async() => {
                 BeginContext(7109, 257007, true);
                 WriteLiteral(@"
     <div>
