@@ -32,3 +32,6 @@ C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Hearth
 C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.pdb
 C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.CopyComplete
 C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Razor\Pages\Fireside.g.cshtml.cs
+C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Razor\Pages\Heroes.g.cshtml.cs
+C:\Users\MPH\source\repos\Hearthstone\Hearthstone\obj\Debug\netcoreapp2.1\Razor\Pages\Innkeeper.g.cshtml.cs

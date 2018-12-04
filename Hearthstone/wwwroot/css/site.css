@@ -27,6 +27,9 @@ body {
 #qrCode {
     margin: 15px;
 }
+.button1 {
+    background-color: #008CBA;
+}
 
 /* Hide/rearrange for smaller screens */
 @media screen and (max-width: 767px) {

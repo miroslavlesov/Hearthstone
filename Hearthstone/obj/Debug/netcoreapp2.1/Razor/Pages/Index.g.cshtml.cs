@@ -68,7 +68,7 @@ using Hearthstone.Data;
             WriteLiteral("\r\n<!-- Animations--><!DOCTYPE html>\r\n<html lang=\"en-us\">\r\n");
             EndContext();
             BeginContext(129, 9302, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6026147ef359473cbec91d08544ff673", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6937603b966e40628a00bfc3b1b01e4a", async() => {
                 BeginContext(135, 9289, true);
                 WriteLiteral(@"
     <script>
@@ -129,7 +129,7 @@ using Hearthstone.Data;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(9433, 39864, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d7be615c14d8448c946ce7f5974a1ea1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46b9b5e594c64154885990751b164794", async() => {
                 BeginContext(9534, 39756, true);
                 WriteLiteral(@"
 <div class=""fb-root""></div><div class=""wrapper"">
